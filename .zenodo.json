@@ -12,12 +12,10 @@
     "the second keyword",
     "a third keyword"
   ],
-  "license": {
-    "id": "CC-BY-4.0"
-  },
+  "license": "CC-BY-4.0",
   "publication_date": "2023-10-15",
   "title": "Training Name Publishing Demo",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "upload_type": "lesson",
   "communities": [
     {
