@@ -108,8 +108,8 @@
               {{ surname }}, {{ name }},
             {% endif %}
           {% endfor %}
-          {% set date-released = config.citation['date-released'] | to_datetime %}
-          ({{ date-released.strftime('%Y') }}). {{ config.citation.title }} ({{ config.citation.version }}).
+          {% set date_released = config.citation['date-released'] | to_datetime %}
+          ({{ date_released.strftime('%Y') }}). {{ config.citation.title }} ({{ config.citation.version }}).
           <a href="https://doi.org/{{ config.citation.doi }}">&nbsp;https://doi.org/{{ config.citation.doi }}</a>
         </div>
       </div>
