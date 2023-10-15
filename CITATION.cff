@@ -7,7 +7,7 @@ authors:
     affiliation: Organization
 title: "Training Name Publishing Demo"
 abstract: "Short abstract"
-version: 1.0.2
+version: 1.0.3
 doi: 10.5070/zenodo.123
 license: CC-BY-4.0
 date-released: 2023-10-15
