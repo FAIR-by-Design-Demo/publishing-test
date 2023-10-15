@@ -9,7 +9,7 @@ tags:
 
 # Learning Unit Template
 
-Introduction
+Introduction - Version 1.0.1
 
 ## Learning Objectives
 
