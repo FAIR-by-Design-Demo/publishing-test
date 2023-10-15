@@ -42,7 +42,7 @@ citation:
       affiliation: Organization
   title: "Training Name Publishing Demo"
   abstract: "Short abstract"
-  version: 1.0.2
+  version: 1.0.3
   doi: 10.5070/zenodo.123
   license: CC-BY-4.0
   license-url: "https://creativecommons.org/licenses/by/4.0/legalcode.txt"
