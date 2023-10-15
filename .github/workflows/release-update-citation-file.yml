@@ -27,7 +27,7 @@ jobs:
       - name: Update CITATION.cff date-released
         uses: mikefarah/yq@v4.34.2
         with:
-          cmd: yq eval -i '.date-released="${{ env.CURRENT_DATE }}"' CITATION.cff
+          cmd: yq eval -i '.date-released=${{ env.CURRENT_DATE }}' CITATION.cff
 
       - name: Check for changes
         id: changes_check
