@@ -10,7 +10,7 @@ abstract: Short abstract
 version: 1.0.7
 doi: 10.5281/zenodo.10000752
 license: CC-BY-4.0
-date-released: '2023-10-15'
+date-released: "2023-10-15"
 license-url: https://creativecommons.org/licenses/by/4.0/legalcode.txt
 keywords:
   - the first keyword
