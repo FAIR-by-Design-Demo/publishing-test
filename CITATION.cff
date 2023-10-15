@@ -1,19 +1,19 @@
 cff-version: 1.2.0
-message: "If you use these learning materials, please cite it as below."
+message: If you use these learning materials, please cite it as below.
 authors:
   - family-names: Boxy
     given-names: Box
     orcid: https://orcid.org/1234-5678-9101-1121
     affiliation: Organization
-title: "Training Name Publishing Demo"
-abstract: "Short abstract"
+title: Training Name Publishing Demo
+abstract: Short abstract
 version: 1.0.6
-doi: 10.5070/zenodo.123
+doi: 10.5281/zenodo.10000752
 license: CC-BY-4.0
-date-released: "2023-10-15"
-license-url: "https://creativecommons.org/licenses/by/4.0/legalcode.txt"
+date-released: '2023-10-15'
+license-url: https://creativecommons.org/licenses/by/4.0/legalcode.txt
 keywords:
-  - "the first keyword"
-  - "the second keyword"
-  - "a third keyword"
-repository: "https://github.com/FAIR-by-Design-Demo/publishing-test"
+  - the first keyword
+  - the second keyword
+  - a third keyword
+repository: https://github.com/FAIR-by-Design-Demo/publishing-test
