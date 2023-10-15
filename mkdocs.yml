@@ -43,7 +43,7 @@ citation:
   title: "Training Name Publishing Demo"
   abstract: "Short abstract"
   version: 1.0.0
-  doi: 10.5281/zenodo.10000752
+  doi: 10.5281/zenodo.10000754
   license: CC-BY-4.0
   license-url: "https://creativecommons.org/licenses/by/4.0/legalcode.txt"
   type: generic
@@ -52,4 +52,4 @@ citation:
     - the second keyword
     - a third keyword
   repository: "https://github.com/FAIR-by-Design-Demo/publishing-test"
-  date-released: "2022"
+  date-released: "2023"
