@@ -21,7 +21,7 @@ If you are interested in following the training as a learner:
 
 ## How to use these templates?
 
-If you want to start developing FAIR-by-Design learning materials based on these templates simply clone this repository.
+If you want to start developing FAIR-by-Design learning materials based on these templates simply clone this repository...
 
 ---
 
